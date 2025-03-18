@@ -1,3 +1,3 @@
 # ProjectTest
 GitHub Practise
-BY CHAKTUM
+BY NIRAJ
